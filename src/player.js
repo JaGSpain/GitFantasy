@@ -1,5 +1,5 @@
 export const player = {
   name: "Hero",
-  hp: 100,
+  hp: 80,
   attack: 10
 };
